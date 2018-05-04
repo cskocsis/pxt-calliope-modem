@@ -1,5 +1,5 @@
 {
-    "name": "pxt-calliope-modem",
+    "name": "pxt-microbit-modem",
     "version": "1.0.0",
     "description": "Modem AT Functions",
     "license": "MIT",
@@ -11,15 +11,15 @@
         "modem.ts",
         "ext_serial.cpp",
         "ext_serial.ts",
-        "_locales/de/pxt-calliope-modem-jsdoc-strings.json",
-        "_locales/de/pxt-calliope-modem-strings.json"
+        "_locales/pxt-microbit-modem-jsdoc-strings.json",
+        "_locales/pxt-microbit-modem-strings.json"
     ],
     "testFiles": [
         "tests.ts"
     ],
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/calliope-mini/pxt-calliope-modem.git"
+        "url": "git+https://github.com/cskocsis/pxt-calliope-modem.git"
     },
     "public": true
 }
